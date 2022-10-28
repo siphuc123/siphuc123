@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi again👋, I'm Phuc</h1>
 <h3 align="center">An IT Student from Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puclearncode&label=Profile%20views&color=0e75b6&style=flat" alt="puclearncode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siphuc123&label=Profile%20views&color=0e75b6&style=flat" alt="puclearncode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puclearncode" alt="puclearncode" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siphuc123" alt="puclearncode" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
