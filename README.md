@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siphuc123
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning things about Java
+- 👀 I’m interested in singing, coding, and, most importantly, sleeping.
+- 🌱 I’m currently learning Thymeleaf, Restful api, Spring Security (Java).
 <!---- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... ---->
 
