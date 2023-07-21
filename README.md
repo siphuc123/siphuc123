@@ -2,7 +2,7 @@
 - 👀 I’m interested in singing, coding, and, most importantly, sleeping.
 - 🌱 I’m currently learning Thymeleaf, Restful api, Spring Security (Java).
 
-<h1 align="center">Hi again 👋🏼, I'm @siphuc123</h1>
+<h1 align="center">Hi again 👋🏼, I'm Phuc Nguyen</h1>
 <h3 align="center">An IT Student from Vietnam</h3>
 
 <h3 align="left">Connect with me:</h3>
