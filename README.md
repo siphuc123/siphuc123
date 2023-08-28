@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://instagram.com/ns.tphuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ns.tphuc" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ph%C3%BAc-nguy%E1%BB%85n-s%C4%A9-tr%E1%BB%8Dng-b3488628a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nstp" height="30" width="40" /></a>
-<h4 align="center">OR phucnst2104@gmail.com</h4>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
