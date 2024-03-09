@@ -1,4 +1,4 @@
-<h1 align="center">👋🏼 Hi, I'm Phuc Nguyen</h1>
+<h1 align="center">👋🏼 Hi</h1>
 <h3 align="center">🙋🏼‍♂️ A normal guy learning code and Java</h3>
 
 - 👀 I’m interested in singing, coding, and, most importantly, sleeping.
