@@ -2,7 +2,7 @@
 <h3 align="center">🙋🏼‍♂️ A normal guy learning code and Java</h3>
 
 - 👀 I’m interested in singing, coding, and, most importantly, sleeping.
-- 🌱 I'm currently learning <b>Vue.js</b>, <b>React.js</b>, <b>Flutter</b>, and <b>Tailwind CSS</b> as a framework with <b>DaisyUI</b> as a plugin. I'm also trying to go deeper in Java compared to all the things I learned before.
+- 🌱 I'm currently learning <b>Vue.js</b>, <b>React.js</b>, <b>C#, VB.NET</b>, and <b>Tailwind CSS</b> as a framework with <b>DaisyUI</b> as a plugin. I'm also trying to go deeper in Java compared to all the things I learned before.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
