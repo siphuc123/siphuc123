@@ -26,8 +26,14 @@ or <b style="color: green; font-size: 150%;">phucnst2104@gmail.com</b>
 
 # 🦾 Github stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siphuc123&show_icons=true&locale=en&layout=compact" alt="siphuc123" /></p>
+<div align="center" dir="auto">
+  <a href="#" title="siphuc123">
+      <img width="315" align="center" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=siphuc123&show_icons=true&locale=en&layout=compact" 
+      alt="siphuc123" style="max-width: 100%;"/>
+  </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siphuc123&show_icons=true&locale=en" alt="siphuc123" /></p>
-
-
+  <a href="#" title="siphuc123">&nbsp;
+      <img align="right" width="434" 
+      src="https://github-readme-stats.vercel.app/api?username=siphuc123&show_icons=true&locale=en" alt="siphuc123" style="max-width: 100%;"/></a>
+</div>
