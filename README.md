@@ -28,12 +28,13 @@ or <b style="color: green; font-size: 150%;">phucnst2104@gmail.com</b>
 
 <div align="center" dir="auto">
   <a href="#" title="siphuc123">
-      <img width="315" align="center" 
+      <img width="315" align="left" 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=siphuc123&show_icons=true&locale=en&layout=compact" 
       alt="siphuc123" style="max-width: 100%;"/>
   </a>
 
-  <a href="#" title="siphuc123">&nbsp;
+  <a href="#" title="siphuc123">
       <img align="right" width="434" 
-      src="https://github-readme-stats.vercel.app/api?username=siphuc123&show_icons=true&locale=en" alt="siphuc123" style="max-width: 100%;"/></a>
+      src="https://github-readme-stats.vercel.app/api?username=siphuc123&show_icons=true&locale=en" alt="siphuc123" style="max-width: 100%;"/>
+  </a>
 </div>
