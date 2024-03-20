@@ -19,7 +19,9 @@ or <b style="color: green; font-size: 150%;">phucnst2104@gmail.com</b>
 - Desktop application development using **Swing (M), Winforms (S.L), VB.NET (S.L)**.
 
 ### NOTES
+
 > S.L : Still learning.
+
 > M : Main
 
 
