@@ -24,4 +24,12 @@ or <b style="color: green; font-size: 150%;">phucnst2104@gmail.com</b>
 
 > M : Main
 
+# 🦾 Github stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siphuc123&show_icons=true&locale=en&layout=compact" alt="siphuc123" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siphuc123&show_icons=true&locale=en" alt="siphuc123" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siphuc123&" alt="siphuc123" /></p>
+
 
