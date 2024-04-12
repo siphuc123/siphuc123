@@ -2,7 +2,7 @@
 <h4 align="center">❤️‍🔥 a guy who is passionate about coding and learning new languages ​​and researching the cool things they will bring. ❤️‍🔥</h4>
 
 - 👀 I’m interested in singing, coding, and, most importantly, sleeping.
-- 🌱 I'm currently learning <b>Vue.js</b>, <b>React.js</b>, <b>C#, VB.NET</b>, and <b>Tailwind CSS</b> as a framework with <b>DaisyUI</b> as a plugin. I'm also trying to learn more about Java and upgrade my knowledge from what I've learned.
+- 🌱 I'm currently learning <b>Next.js</b>, <b>React.js</b>, <b>C#, VB.NET</b>, and <b>Tailwind CSS</b> as a framework with <b>DaisyUI</b> as a plugin. I'm also trying to learn more about Java and upgrade my knowledge from what I've learned.
 
 # 🔗 Connect with me:
 <p align="left">
@@ -15,8 +15,8 @@ or <b style="color: green; font-size: 150%;">phucnst2104@gmail.com</b>
 
 - Front-end development using **HTML, Javascript (S.L), CSS, Bootstrap, TailwindCSS, ReactJS (S.L)**.
 - Backend development using **Java (M), C# (S.L), NodeJS (S.L)**.
-- RDBMS using **MySQL, MSSQL**.
-- Desktop application development using **Swing (M), Winforms (S.L), VB.NET (S.L)**.
+- RDBMS using **MySQL, MSSQL, PostgreSQL**.
+- Desktop application development using **Swing (M), VB.NET (S.L)**.
 
 ### NOTES
 
