@@ -13,10 +13,11 @@ or <b style="color: green; font-size: 150%;">phucnst2104@gmail.com</b>
 
 # ⚙️ Languages, Tools & technologies:
 
-- Front-end development using **HTML, Javascript (S.L), CSS, Bootstrap, TailwindCSS, ReactJS (S.L)**.
+- Front-end development using **HTML, CSS, Javascript (S.L), Bootstrap, TailwindCSS, ReactJS (S.L)**.
 - Backend development using **Java (M), C# (S.L), NodeJS (S.L)**.
 - RDBMS using **MySQL, MSSQL, PostgreSQL**.
 - Desktop application development using **Swing (M), VB.NET (S.L)**.
+- Tools using **Docker(S.L), Figma, Canva, Git, Github, Postman(S.L)**
 
 ### NOTES
 
